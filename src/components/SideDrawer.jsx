@@ -48,7 +48,7 @@ export default function SideDrawer({ children }) {
       onKeyDown={toggleDrawer(anchor, false)}
     >
       <List>
-        <ListItem>Cateogries</ListItem>
+        <ListItem> My Cateogries</ListItem>
       </List>
       <Divider />
       <List>
